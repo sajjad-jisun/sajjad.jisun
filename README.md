@@ -1,5 +1,9 @@
+
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]
+
 <h1 align="center">Hi 👋, I'm Sajjad Jisun</h1>
 <h3 align="center">A CSE undergrad, passionate Competitive Programmer & Tech Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1733356800&v=beta&t=N2QT8FPhu76WGm6IbzkoLolbWaUIHoqKnvSyQ11eVNs">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjad-jisun&label=Profile%20views&color=0e75b6&style=flat" alt="sajjad-jisun" /> </p>
 
