@@ -1,13 +1,9 @@
-
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]
-
 <h1 align="center">Hi 👋, I'm Sajjad Jisun</h1>
 <h3 align="center">A CSE undergrad, passionate Competitive Programmer & Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1733356800&v=beta&t=N2QT8FPhu76WGm6IbzkoLolbWaUIHoqKnvSyQ11eVNs">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjad-jisun&label=Profile%20views&color=0e75b6&style=flat" alt="sajjad-jisun" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjad-jisun" alt="sajjad-jisun" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -21,14 +17,15 @@
 
 - 📄 Know about my experiences [https://www.behance.net/mdsajjisun](https://www.behance.net/mdsajjisun)
 
-- ⚡ Fun fact **Why did the scarecrow win an award? Because he was outstanding in his field!**
+- ⚡ Asking you **Wanna have a cup of Tea with me?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sajjadjisun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajjadjisun/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sajjad.jisun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sajjad.jisun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sajjadjisun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjadjisun" height="30" width="40" /></a>
+<a href="https://fb.com/sajjad.jisun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajjad.jisun" height="30" width="40" /></a>
 <a href="https://instagram.com/sajjad.jisun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajjad.jisun" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/mdsajjisun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/mdsajjisun" height="30" width="40" /></a>
+<a href="https://www.behance.net/mdsajjisun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mdsajjisun" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sajjad_jisun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sajjad_jisun" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sajjad.jisun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sajjad.jisun" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sajjad_jisun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sajjad_jisun" height="30" width="40" /></a>
 <a href="https://discord.gg/sajjad_jisun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sajjad_jisun" height="30" width="40" /></a>
