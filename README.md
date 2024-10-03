@@ -3,7 +3,7 @@
 </div>  
   
 
-### **<div align="center">I'm [Sajjad Jisun](https://www.linkedin.com/in/sajjadjisun/) from Bangladesh,
+# **<div align="center">I'm [Sajjad Jisun](https://www.linkedin.com/in/sajjadjisun/) from Bangladesh,
 A CSE Undergrad , A full-time Developer & Programmer 👨‍💻 Pursuing my BSc from [CUET](https://www.cuet.ac.bd/) 🚀</div>**  
   
 
@@ -111,7 +111,7 @@ My journey has been driven by a commitment to continuous learning and personal g
 
 <br/>  
 
-<img src="https://designimages.appypie.com/allimages/linkedin142.webp" align="left" height="200" width="550" />  
+<img src="https://designimages.appypie.com/allimages/linkedin142.webp" align="left" height="200" width="1200" />  
   
 
                                                                                                                      
